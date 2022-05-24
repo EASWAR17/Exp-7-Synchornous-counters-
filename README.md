@@ -1,7 +1,10 @@
 # Exp-6-Synchornous-counters - up counter and down counter 
-### AIM: To implement 4 bit up and down counters and validate  functionality.
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+### AIM: \
+To implement 4 bit up and down counters and validate  functionality.
+### HARDWARE REQUIRED: 
+PC, Cyclone II , USB flasher
+### SOFTWARE REQUIRED: 
+Quartus prime
 ### THEORY 
 
 ## UP COUNTER 
@@ -46,6 +49,11 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
+1.Create module projectname(input ,output) to start the verilog programming.
+2.create a if loop condition to increase the count in counter_up function.
+3.Similarly, create another loop for the down counter.
+4.End the verilog program using keyword endmodule.
+5.Get the timing diagram and RTL realization diagram for respective Counters.
 
 
 
